@@ -19,7 +19,7 @@ model_params:
   num_heads : 4
 
 train_params:
-  task_name: 'default'
+  task_name: 'ddpm_mnist'
   batch_size: 64
   num_epochs: 40
   num_samples : 100
